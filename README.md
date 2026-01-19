@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Daniyal Shahid | Cyber Security Developer</h1>
+<h1 align="center">Daniyal Shahid | Cyber Security Developer</h1>
 
 <div align="center">
 
@@ -97,14 +97,14 @@ class CyberDeveloper:
 ```javascript
 // Real-time Development Process
 const developmentFlow = {
-  phase: "🚀 Active Development",
-  securityCheck: "✅ OWASP Compliance",
-  testing: "🔍 Penetration Testing",
-  deployment: "🚢 Secure Deployment",
-  monitoring: "👁️ Continuous Monitoring"
+  phase: "Active Development",
+  securityCheck: "OWASP Compliance",
+  testing: "Penetration Testing",
+  deployment: "Secure Deployment",
+  monitoring: "Continuous Monitoring"
 };
 
-console.log("🛡️ Secure Development Pipeline:", developmentFlow);
+console.log("Secure Development Pipeline:", developmentFlow);
 ```
 
 </div><p align="center"> <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg" alt="divider" width="100%"> </p>
@@ -113,7 +113,7 @@ console.log("🛡️ Secure Development Pipeline:", developmentFlow);
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkillDevloper&theme=merko&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkillDeveloper&theme=merko&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkillDevloper&theme=merko&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=00FF00&text_color=FFFFFF&langs_count=8)
 
 
@@ -148,11 +148,11 @@ $ john --wordlist=rockyou.txt hash.txt  # Password Cracking
 </div>
 
 **Key Professional Achievements:**
-- ✅ Successfully trained university students in Web Development & Ethical Hacking
-- ✅ Published CEH-based practical labs and assessments on GitHub
-- ✅ Established personal cybersecurity lab for hands-on security testing
-- ✅ Implemented OWASP security measures across multiple production applications
-- ✅ Developed 15+ client projects with 100% security compliance
+- Successfully trained university students in Web Development & Ethical Hacking
+- Published CEH-based practical labs and assessments on GitHub
+- Established personal cybersecurity lab for hands-on security testing
+- Implemented OWASP security measures across multiple production applications
+- Developed 15+ client projects with 100% security compliance
 
 ## 💡 Cybersecurity Philosophy
 
@@ -161,7 +161,7 @@ $ john --wordlist=rockyou.txt hash.txt  # Password Cracking
 ![Security Mindset](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWt2NGFkZzRiaDZlZ3N6Mmhpd3EzcHR2bGdhZW9xczg2N2d0OGxlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GCO5WNzFmlc0vjK8cA/giphy.gif)
 
 ```bash
-echo "🛡️  SECURITY FIRST APPROACH"
+echo "SECURITY FIRST APPROACH"
 echo "=========================="
 echo "• Every line of code is a potential vulnerability"
 echo "• Trust, but verify - always verify"
@@ -194,18 +194,18 @@ echo "• Security and usability must coexist"
 ```javascript
 // Current Development Status
 const currentStatus = {
-  status: "🚀 ACTIVE",
-  securityMode: "🛡️ PENETRATION TESTING",
-  developmentMode: "💻 SECURE CODING",
+  status: "ACTIVE",
+  securityMode: "PENETRATION TESTING",
+  developmentMode: "SECURE CODING",
   tools: ["Metasploit", "Burp Suite", "VS Code", "Git"],
   nextMilestone: "Blockchain Security Research"
 };
 
-console.log(`🔒 Security Status: ${currentStatus.status}`);
-console.log(`⚔️  Security Mode: ${currentStatus.securityMode}`);
-console.log(`💻 Development Mode: ${currentStatus.developmentMode}`);
-console.log(`🛠️  Active Tools: ${currentStatus.tools.join(", ")}`);
-console.log(`🎯 Next Goal: ${currentStatus.nextMilestone}`);
+console.log(`Security Status: ${currentStatus.status}`);
+console.log(`Security Mode: ${currentStatus.securityMode}`);
+console.log(`Development Mode: ${currentStatus.developmentMode}`);
+console.log(`️Active Tools: ${currentStatus.tools.join(", ")}`);
+console.log(`Next Goal: ${currentStatus.nextMilestone}`);
 ```
 
 </div>
