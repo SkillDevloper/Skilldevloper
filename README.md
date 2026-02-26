@@ -1,13 +1,12 @@
-<h1 align="center">Daniyal Shahid | Cyber Security Developer</h1>
+<h1 align="center">Daniyal Shahid | Cyber Security Analyst | Full Stack Developer</h1>
 
 <div align="center">
-
-![Cyber Security Developer](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGI3ejlzaWZ5M3J6M3VqdnUzdmUxY2UwdDNobjc2MnV0b3V1MzU5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif)
 
 [![CEH v13 Certified](https://img.shields.io/badge/CEH%20v13-Certified%20Ethical%20Hacker-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://aspen.eccouncil.org)
 [![CCNA Certified](https://img.shields.io/badge/CCNA-Cisco%20Certified%20Network%20Associate-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com)
 [![3+ Years Experience](https://img.shields.io/badge/Full%20Stack-3%2B%20Years%20Experience-success?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://github.com/SkillDevloper)
-
+![](`https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGI3ejlzaWZ5M3J6M3VqdnUzdmUxY2UwdDNobjc2MnV0b3V1MzU5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif`)
+![User Image](https://avatars.githubusercontent.com/u/145567892?v=4)
 </div>
 
 ## 🔐 Security Developer Profile
@@ -123,7 +122,7 @@ console.log("Secure Development Pipeline:", developmentFlow);
 
 <div align="center">
   
-![Security Testing](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
+<img src="https://i.giphy.com/YQitE4YNQNahy.webp" width="480" height="270" alt="Security Testing">
 
 ```bash
 # Security Testing Pipeline
